@@ -8,7 +8,7 @@ Participants come from a vetted 4M+ consumer panel or from your own customers, b
 
 | | |
 |---|---|
-| **[skills](https://github.com/user-intuition/skills)** | Agent Skills and the Claude Code plugin: plan a study, recruit, interview, and analyze, from Claude Code, Claude Desktop, Codex, Cursor or any agent. |
+| **[skills](https://github.com/user-intuition/skills)** | Agent Skills and the Claude Code plugin: plan a study, recruit, interview, and analyze, from Claude Code, Claude Desktop, [ChatGPT](https://chatgpt.com/plugins/plugin_asdk_app_6ad5de9718bc8191bf0a468cb455fed1), Codex, Cursor or any agent. |
 | **[examples](https://github.com/user-intuition/examples)** | TypeScript examples for the API and MCP server: create a study, launch against a saved estimate, and retrieve findings with quotes. Runs without an account in fixture mode. |
 | **[Docs](https://docs.userintuition.ai)** | MCP server, API reference and the skills library. |
 
